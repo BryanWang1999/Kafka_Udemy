@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a9742a2-2ffe-4e36-bf99-66ba1aee857f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="COMPILER_PROCESS_HEAP_SIZE" value="5000" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="corretto-1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx5000m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YoDyqmufi3fEUC7WyEyYedaxRy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a9742a2-2ffe-4e36-bf99-66ba1aee857f" name="Changes" comment="" />
+      <created>1701183296321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701183296321</updated>
+      <workItem from="1701183298357" duration="762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="kotlin-line">
+          <option name="timeStamp" value="1701183302026" />
+        </breakpoint>
+        <breakpoint suspend="THREAD" type="java-collection">
+          <option name="timeStamp" value="1701183302026" />
+        </breakpoint>
+        <breakpoint suspend="THREAD" type="java-method">
+          <option name="timeStamp" value="1701183302026" />
+        </breakpoint>
+        <breakpoint suspend="THREAD" type="java-wildcard-method">
+          <option name="timeStamp" value="1701183302026" />
+        </breakpoint>
+        <breakpoint suspend="THREAD" type="java-field">
+          <option name="timeStamp" value="1701183302026" />
+        </breakpoint>
+        <breakpoint suspend="THREAD" type="java-line">
+          <option name="timeStamp" value="1701183302026" />
+        </breakpoint>
+        <breakpoint suspend="THREAD" type="kotlin-field">
+          <option name="timeStamp" value="1701183302026" />
+        </breakpoint>
+        <breakpoint suspend="THREAD" type="kotlin-function">
+          <option name="timeStamp" value="1701183302026" />
+        </breakpoint>
+        <breakpoint suspend="THREAD" type="javascript">
+          <option name="timeStamp" value="1701183302026" />
+        </breakpoint>
+        <breakpoint suspend="THREAD" type="OracleBreakpointType">
+          <option name="timeStamp" value="1701183302026" />
+        </breakpoint>
+      </breakpoints-defaults>
+    </breakpoint-manager>
+  </component>
+</project>

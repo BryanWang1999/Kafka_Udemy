@@ -1,0 +1,7 @@
+[2023-11-29 22:59:52,649] INFO [Broker id=1] Transitioning 3 partition(s) to local leaders. (state.change.logger)
+[2023-11-29 22:59:52,668] INFO [Broker id=1] Creating new partition third_topic-0 with topic id rzDHtSK0QGmtiobBf8ln8Q. (state.change.logger)
+[2023-11-29 22:59:52,699] INFO [Broker id=1] Leader third_topic-0 starts at leader epoch 0 from offset 0 with high watermark 0 ISR [1] addingReplicas [] removingReplicas []. Previous leader epoch was -1. (state.change.logger)
+[2023-11-29 22:59:52,719] INFO [Broker id=1] Creating new partition third_topic-2 with topic id rzDHtSK0QGmtiobBf8ln8Q. (state.change.logger)
+[2023-11-29 22:59:52,741] INFO [Broker id=1] Leader third_topic-2 starts at leader epoch 0 from offset 0 with high watermark 0 ISR [1] addingReplicas [] removingReplicas []. Previous leader epoch was -1. (state.change.logger)
+[2023-11-29 22:59:52,761] INFO [Broker id=1] Creating new partition third_topic-1 with topic id rzDHtSK0QGmtiobBf8ln8Q. (state.change.logger)
+[2023-11-29 22:59:52,763] INFO [Broker id=1] Leader third_topic-1 starts at leader epoch 0 from offset 0 with high watermark 0 ISR [1] addingReplicas [] removingReplicas []. Previous leader epoch was -1. (state.change.logger)
